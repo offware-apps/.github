@@ -1,4 +1,4 @@
-<img src="logo.svg" alt="Offware" width="96">
+<img src="logo.png" alt="Offware" width="96">
 
 # Offware (In construction)
 
