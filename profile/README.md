@@ -1,3 +1,5 @@
+<img src="logo.svg" alt="Offware" width="96">
+
 # Offware (In construction)
 
 Software that works switched off.
