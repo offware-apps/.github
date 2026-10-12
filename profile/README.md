@@ -10,6 +10,7 @@ full is in [Vision](https://github.com/offware-apps/Vision).
 
 | App | What it does | Try it |
 | --- | --- | --- |
+| [FSTEdit](https://github.com/offware-apps/FSTEdit) | A talk edited by its transcript: strike a word and the video loses it | [offware-apps.github.io/FSTEdit](https://offware-apps.github.io/FSTEdit/) |
 | [MAX Finder](https://github.com/offware-apps/MAX-Finder) | Every SNCF train where a free MAX seat is reservable. Under rework for V2 | [offware-apps.github.io/MAX-Finder](https://offware-apps.github.io/MAX-Finder/) |
 | [Postcards](https://github.com/offware-apps/Postcards) | Every place you have been, privately, offline | [offware-apps.github.io/Postcards](https://offware-apps.github.io/Postcards/) |
 
