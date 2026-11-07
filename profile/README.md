@@ -13,6 +13,7 @@ full is in [Vision](https://github.com/offware-apps/Vision).
 | [FSTEdit](https://github.com/offware-apps/FSTEdit) | A talk edited by its transcript: strike a word and the video loses it | [offware-apps.github.io/FSTEdit](https://offware-apps.github.io/FSTEdit/) |
 | [Railmap](https://github.com/offware-apps/Railmap) | Every train, every pass. Free MAX JEUNE / SENIOR seats today, Interrail next | [offware-apps.github.io/Railmap](https://offware-apps.github.io/Railmap/) |
 | [Postcards](https://github.com/offware-apps/Postcards) | Every place you have been, privately, offline | [offware-apps.github.io/Postcards](https://offware-apps.github.io/Postcards/) |
+| [ink-drop](https://github.com/offware-apps/ink-drop) | Web pages and news feeds made into books an e-reader reads offline, on an e-ink tablet or from a laptop | [Build it](https://github.com/offware-apps/ink-drop#tldr) |
 
 Single-file pages, smaller than an app: one HTML file, nothing to build, one
 job, the same promise.
